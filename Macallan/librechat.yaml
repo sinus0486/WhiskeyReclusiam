@@ -1,0 +1,7 @@
+#information, see the Configuration Guide:
+# https://docs.librechat.ai/install/configuration/custom_config.html
+
+# Configuration version (required)
+version: 1.0.5
+# This setting caches the config file for faster loading across app lifecycle
+cache: true
