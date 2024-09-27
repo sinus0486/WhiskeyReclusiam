@@ -1,0 +1,44 @@
+[
+    {
+      "unit": "Space Marine Tactical Squad",
+      "stats": {
+        "movement": 6,
+        "weapon_skill": 3,
+        "ballistic_skill": 3,
+        "strength": 4,
+        "toughness": 4,
+        "wounds": 1,
+        "attacks": 1,
+        "leadership": 7,
+        "save": 3
+      },
+      "weapons": [
+        {
+          "name": "Boltgun",
+          "range": "24\"",
+          "type": "Rapid Fire 1",
+          "strength": 4,
+          "ap": 0,
+          "damage": 1
+        },
+        {
+          "name": "Frag Grenade",
+          "range": "6\"",
+          "type": "Grenade D6",
+          "strength": 3,
+          "ap": 0,
+          "damage": 1
+        }
+      ],
+      "abilities": [
+        "And They Shall Know No Fear",
+        "Combat Squads"
+      ],
+      "tags": {
+        "category": "Unit Stats",
+        "faction": "Space Marines",
+        "unit_type": "Infantry"
+      }
+    }
+  ]
+  

@@ -1,0 +1,21 @@
+[
+    {
+      "section": "Deep Strike",
+      "text": "During deployment, you can set up this unit in reserves instead of on the battlefield. At the end of any of your Movement phases, it can deep strike onto the battlefield.",
+      "tags": {
+        "category": "Special Rules",
+        "keyword": "Deep Strike",
+        "type": "Deployment"
+      }
+    },
+    {
+      "section": "Feel No Pain",
+      "text": "When a model with this ability suffers a wound, roll a d6. On a 5+, the wound is ignored.",
+      "tags": {
+        "category": "Special Rules",
+        "keyword": "Feel No Pain",
+        "type": "Wounds"
+      }
+    }
+  ]
+  
