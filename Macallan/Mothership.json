@@ -1,11 +1,32 @@
 [
   {
     "section": "Ability Checks",
-    "text": "To make an ability check, roll a d100, a roll under the target stat is a success. rolling doubles over the target stat is a critical failure, doubles under the target stat is a critical success. 90-99 is always a failure 0 & 00 on the d100 equals 0. The DM should only call for an ability check when a character tries to accomplish a task that is particularly challenging, or if failure has a consequence. ",
+    "text": "To make an ability check, roll a d100, a roll under the target stat is a success. rolling doubles over the target stat is a critical failure, doubles under the target stat is a critical success. 90-99 is always a failure 0 & 00 on the d100 equals 0, any failure increases the characters Stress Level by at least 1. The DM should only call for an ability check when a character tries to accomplish a task that is particularly challenging, or if failure has a consequence. ",
     "tags": {
       "category": "Ability Check",
       "type": "Rule",
-      "mechanic": "d100"
+      "mechanic": "d100",
+      "keywords":[]
     }
-  }
+  },
+{
+    "section": "Fear Save",
+    "text": "To make an Fear Save, roll a d100, a roll under the target stat is a success. rolling doubles over the target stat is a critical failure, doubles under the target stat is a critical success. 90-99 is always a failure 0 & 00 on the d100 equals 0, any failure increases the characters Stress Level by at least 1. The DM should call for a Fear Save any time a character witnesses something terrifying such as another character being killed, or seeing a monster for the first time.",
+    "tags": {
+      "category": "Fear Save",
+      "type": "Rule",
+      "mechanic": "d100"
+      "keywords": []
+    }
+  },
+{
+    "section": "",
+    "text": " ",
+    "tags": {
+      "category": "",
+      "type": "",
+      "mechanic": ""
+      "keywords": []
+    }
+  },
 ]
