@@ -1,0 +1,11 @@
+[
+  {
+    "section": "Ability Checks",
+    "text": "To make an ability check, roll a d100, a roll under the target stat is a success. rolling doubles over the target stat is a critical failure, doubles under the target stat is a critical success. 90-99 is always a failure 0 & 00 on the d100 equals 0. The DM should only call for an ability check when a character tries to accomplish a task that is particularly challenging, or if failure has a consequence. ",
+    "tags": {
+      "category": "Ability Check",
+      "type": "Rule",
+      "mechanic": "d100"
+    }
+  }
+]
