@@ -1,0 +1,20 @@
+[
+  {
+    "section": "Movement",
+    "text": "Units move based on their Movement characteristic. Each model can move up to their Movement in inches in any direction during the Movement phase.",
+    "tags": {
+      "category": "Core Rules",
+      "phase": "Movement",
+      "mechanic": "distance"
+    }
+  },
+  {
+    "section": "Shooting",
+    "text": "In the Shooting phase, units that did not Advance or Fall Back can fire their weapons. Roll a number of dice equal to the number of shots.",
+    "tags": {
+      "category": "Core Rules",
+      "phase": "Shooting",
+      "mechanic": "weapons"
+    }
+  }
+]

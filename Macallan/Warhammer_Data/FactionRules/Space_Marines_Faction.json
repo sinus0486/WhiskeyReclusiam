@@ -1,0 +1,68 @@
+[
+    {
+      "section": "Space Marines",
+      "text": "If your Army Faction is ADEPTUS ASTARTES, at the start of your Command phase, select one unit from your opponent’s army. Until the start of your next Command phase, that enemy unit is your Oath of Moment target. Each time a model with this ability makes an attack that targets your Oath of Moment target, you can re-roll the Hit roll.",
+      "tags": {
+        "category": "Army Rules",
+        "faction": "Space Marines",
+        "ability": "Oath of Moment",
+        "phase": ["Shooting", "Fight"],
+        "mechanic": "hit rerolls"
+      }
+    },
+
+    {
+        "section": "Space Marines - Gladius Task Force",
+        "text": "At the start of your Command phase, you can select Devastator Doctrine, Tactical Doctrine or Assault Doctrine. Until the start of your next Command phase, that Combat Doctrine is active and its effects apply to all ADEPTUS ASTARTES units from your army. You can only select each Combat Doctrine once per battle.",
+        "tags": {
+          "category": "Detachment Rules",
+          "faction": "Space Marines",
+          "ability": "Combat Doctrines",
+          "phase": "Command",
+          "mechanic": "movement"
+        }
+      },
+      {
+        "section": "Space Marines - Gladius Task Force",
+        "text": "This unit is eligible to shoot in a turn in which it Advanced.",
+        "tags": {
+          "category": "Detachment Rules",
+          "faction": "Space Marines",
+          "ability": "Devastator Doctrine",
+          "phase": "Command",
+          "mechanic": "movement"
+        }
+      },
+      {
+        "section": "Space Marines - Gladius Task Force",
+        "text": "This unit is eligible to shoot and declare a charge in a turn in which it Fell Back.",
+        "tags": {
+          "category": "Detachment Rules",
+          "faction": "Space Marines",
+          "ability": "Tactical Doctrine",
+          "phase": "Command",
+          "mechanic": "movement"
+        }
+      },
+      {
+        "section": "Space Marines - Gladius Task Force",
+        "text": "This unit is eligible to declare a charge in a turn in which it Advanced.",
+        "tags": {
+          "category": "Detachment Rules",
+          "faction": "Space Marines",
+          "ability": "Assault Doctrine",
+          "phase": "Command",
+          "mechanic": "movement"
+        }
+      }
+]
+
+
+
+
+
+
+
+
+
+
