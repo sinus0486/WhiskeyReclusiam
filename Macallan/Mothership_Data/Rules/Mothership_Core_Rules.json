@@ -1,0 +1,233 @@
+[{
+    "section": "d100",
+    "text": "1d100  means to roll a pair of ten-sided dice, where one die represents the tens digit and the other represents the ones digit. For example: if you roll a 90 and a 9 that equals 99. If you roll a 00 and a 0,that equals a zero.",
+    "tags": {
+      "category": "Dice Notation",
+      "type": "roll",
+      "mechanic": "dice roll",
+      "keywords": ["d100"]
+    }
+  },
+  {
+    "section": "xd10",
+    "text": "xd10  means to roll a number of ten-sided dice (e.g., 1d10, 2d10) and add them together.",
+    "tags": {
+      "category": "Dice Notation",
+      "type": "roll",
+      "mechanic": "dice roll",
+      "keywords": ["d10"]
+    }
+  },
+  {
+    "section": "d20",
+    "text": "We use a twenty-sided die (1d20) called the Panic Die. You use this only to make Panic Checks.",
+    "tags": {
+      "category": "Dice Notation",
+      "type": "roll",
+      "mechanic": "panic",
+      "keywords": ["d20", "Panic"]
+    }
+  },
+  {
+    "section": "Advantage & Disadvantage",
+    "text": "Whenever you are making a roll of any kind (Stat Check, Save, Panic Check, Damage, etc.) and the character has a situational advantage (like assistance from someone else), roll twice and take the best result. When at a situational disadvantage (like poor weather or bad visibility), roll twice and take the worst result.",
+    "tags": {
+      "category": "Dice Notation",
+      "type": "roll",
+      "mechanic": "advantage / disadvantage",
+      "keywords": ["disadvantage", "advantage"]
+    }
+  },
+
+  {
+    "section": "Critical Successes & Failures",
+    "text": "Whenever you roll doubles (e.g., 00, 66) on a Stat Check or Save, you have rolled a Critical.  If the roll is a success,it is now a Critical Success  and something very good happens. If it is a failure, it is now a Critical Failure  and something bad happens, and furthermore you must make a Panic Check.  A roll of 00 is always a Critical Success and a roll of 99 is always a Critical Failure.",
+    "tags": {
+      "category": "Dice Notation",
+      "type": "roll",
+      "mechanic": "critical",
+      "keywords": ["critical"]
+    }
+  },
+  {
+    "section": "STAT CHECKS",
+    "text": "Whenever you want to do something and the price for failure is high, roll 1d100 and attempt to roll lower than your most relevant Stat. This is called a Stat Check. If you roll less than your Stat you succeed. Otherwise, you fail and gain 1 Stress. A roll of 90-99 is always a failure.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "check",
+      "mechanic": "stat check",
+      "keywords": ["stats","abilities","strength","speed","intellect","combat"]
+    }
+  },
+   {
+    "section": "STAT CHECKS",
+    "text": "Whenever you want to do something and the price for failure is high, roll 1d100 and attempt to roll lower than your most relevant Stat. This is called a Stat Check. If you roll less than your Stat you succeed. Otherwise, you fail and gain 1 Stress. A roll of 90-99 is always a failure.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "check",
+      "mechanic": "stat check",
+      "keywords": ["stats","abilities","strength","speed","intellect","combat"]
+    }
+  },
+  {
+    "section": "Strength",
+    "text": "Holding airlocks closed, carrying fallen comrades, climbing, pushing, jumping.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "check",
+      "mechanic": "strength check",
+      "keywords": ["stats","abilities","strength"]
+    }
+  },
+  {
+    "section": "Speed",
+    "text": "Getting out of the cargo bay before the blast doors close acting before someone (or something) else, running away.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "check",
+      "mechanic": "speed check",
+      "keywords": ["stats","abilities","speed"]
+    }
+  },
+  {
+    "section": "Intellect",
+    "text": "Recalling your training and experience under duress thinking through difficult problems, inventing or fixing things",
+    "tags": {
+      "category": "Core Rules",
+      "type": "check",
+      "mechanic": "Intellect check",
+      "keywords": ["stats","abilities","Intellect"]
+    }
+  },
+  {
+    "section": "Combat",
+    "text": "Fighting for your life.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "check",
+      "mechanic": "Combat check",
+      "keywords": ["stats","abilities","Combat"]
+    }
+  },
+  {
+    "section": "Saves",
+    "text": "In order to avoid certain dangers or trauma, you sometimes need to roll 1d100 lower than your most relevant Save. This is called a Save. If you roll less than your Save you succeed. Otherwise you fail, and gain 1 Stress. A roll of 90-99 is always a failure.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "Save",
+      "mechanic": "Save",
+      "keywords": ["Save","stress","sanity","Fear","body"]
+    }
+  },
+  {
+    "section": "Sanity",
+    "text": "Rationalize logical inconsistencies in the universe, make sense out of chaos, detect illusions and mimicry, cope with Stress.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "Save",
+      "mechanic": "Sanity Save",
+      "keywords": ["Save","stress","sanity"]
+    }
+  },
+  {
+    "section": "Fear",
+    "text": "Maintain a level head while struggling with fear loneliness, depression, and other emotional surges.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "Save",
+      "mechanic": "Fear Save",
+      "keywords": ["Save","stress","Fear"]
+    }
+  },
+  {
+    "section": "Body",
+    "text": "Employ quick reflexes and resist hunger, disease, or organisms that might try and invade your insides.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "Save",
+      "mechanic": "Body Save",
+      "keywords": ["Save","stress","Body"]
+    }
+  },
+  {
+    "section": "Skills",
+    "text": "If a character has a Skill that is relevant to the task at hand, you can add the Skill’s bonus to the Stat or Save before making your roll (giving you a higher number to roll under).",
+    "tags": {
+      "category": "Core Rules",
+      "type": "Skill",
+      "mechanic": "Skills",
+      "keywords": ["Skills","Check"]
+    }
+  },
+  {
+    "section": "Gaining Stress",
+    "text": "You gain 1 Stress every time you fail a Stat Check or Save. Occasionally, certain locations or entities can automatically give you Stress from interacting with or witnessing them. Y our Minimum Stress  starts at 2, and based on events that happen in game, such as certain Panic Check results, it can be increased or decreased. The maximum Stress you can have is 20. Any Stress you take over 20 instead reduces the most relevant Stat or Save by that amount.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "Stress",
+      "mechanic": "Gaining Stress",
+      "keywords": ["Stress"]
+    }
+  },
+  {
+    "section": "Relieving Stress",
+    "text": "You can relieve Stress by resting  in a relatively safe place. To do this, make a Rest Save using your worst Save.  If you succeed, reduce your Stress by the ones digit rolled (e.g., if you rolled 24 under your worst Save of 30, reduce your Stress by 4). If you fail, you gain 1 Stress instead. Players can gain Advantage on their Rest Save by participating in consensual sex, recreational drug use, a night of heavy drinking, prayer, or any other suitable leisure activity. Unsafe locations may incur Disadvantage on Rest Saves at the Warden’s discretion. Stress is typically not relieved during cryosleep. Finally, if you have more time, you can take Shore Leave  and convert your Stress into improved Saves.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "Stress",
+      "mechanic": "Relieving Stress",
+      "keywords": ["Stress"]
+    }
+  },
+  {
+    "section": "Panic Check",
+    "text": "A Panic Check determines whether the character can keep their cool under extreme pressure. To make a Panic Check, roll the Panic Die  (1d20) and attempt to roll greater than your current Stress.  If you roll less than or equal to your on the Panic Table",
+    "tags": {
+      "category": "Core Rules",
+      "type": "check",
+      "mechanic": "Panic Check",
+      "keywords": ["panic"]
+    }
+  },
+  {
+    "section": "WHEN TO MAKE PANIC CHECKS",
+    "text": "You must make a Panic Check anytime you roll a Critical Failure on a Stat Check or Save. Additionally, the Warden may call for a Panic Check at any other appropriate time, including, but not limited to: Watching another crew member die, Witnessing more than 1 crew member Panic at the same time, Whenever your Ship rolls a Critical Failure, everyone on board makes a Panic Check, Encountering a strange and horrifying entity for the first time, When all hope is lost and death feels certain, whenever you, the player, want.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "check",
+      "mechanic": "Panic Check",
+      "keywords": ["panic"]
+    }
+  },
+  {
+    "section": "Strict Turn Order",
+    "text": "Some groups prefer a very strict turn order. If this is the case for your group, we recommend everyone make a Speed Check at the start of the encounter. Those who succeed go before the enemy hostiles, and those who fail go after. If the situation changes dramatically (e.g., if new hostiles enter the encounter), Speed Checks can be called for again.Violence in Mothership is incredibly dangerous, and should be avoided at all costs. When all else fails, this is how to resolve the encounter.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "combat",
+      "mechanic": "turn order",
+      "keywords": ["turn","combat","violence","attack"]
+    }
+  },
+  {
+    "section": "Turn Order",
+    "text": "During a violent confrontation, time is split into roughly 10 second intervals called rounds.  Everything within a round happens at basically the same time. The Warden describes the situation and what is likely to happen if no response,  then play goes around the table and each player describes how their characters react. As usual, feel free to ask questions, and the Warden answers and explains the likely consequences of failure. Once you understand the stakes and what you want to do, you commit to a course of action, either individually or as a group. Once everyone has done this, the Warden resolves everyone's actions at once, assigning any necessary Stat Checks or Saves. Then everyone who has to, rolls.After any Stat Checks and Saves are rolled, if anyone is taking Damage or a Wound, those are rolled. Finally, the Warden describes the new situation, and the next round starts. This repeats until the encounter is resolved.",
+    "tags": {
+      "category": "Core Rules",
+      "type": "combat",
+      "mechanic": "turn order",
+      "keywords": ["turn","combat","violence","attack"]
+    }
+  },
+  {
+    "section": "SURPRISE",
+    "text": "If there is a chance that characters are ambushed or stunned by a horrific encounter, the Warden calls for a Fear Save. Those who succeed are able to react, those who fail are too shocked to react until the next round",
+    "tags": {
+      "category": "Core Rules",
+      "type": "combat",
+      "mechanic": "surprise",
+      "keywords": ["turn","combat","violence","attack","surprise"]
+    }
+  },
+
+]
